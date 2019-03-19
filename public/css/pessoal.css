@@ -1,0 +1,36 @@
+#menu ul{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+#menu ul li { display: inline; }
+
+#menu ul li img {
+    display: inline-block;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+#menu ul li img:hover {
+   /* background-color:#D6D6D6;*/
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+.best_sellers
+{
+    padding-top: 56px;
+    background: #fff;
+    padding-bottom: 50px;
+    margin-top: 0px !important;
+}
+
+.banner_text
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 1.166;
+    color: #f8f9fa !important;
+    text-transform: uppercase;
+    letter-spacing: 0.038em;
+}
